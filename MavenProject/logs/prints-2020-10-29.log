@@ -1,0 +1,8 @@
+19:11:52.115 [main] DEBUG alpha.act - Identifying Draggable objects
+19:12:00.202 [main] INFO  alpha.act - Drag and drop success
+16:09:03.029 [main] DEBUG alpha.act - Setting chrome driver property
+16:09:10.819 [main] INFO  alpha.act - Window Maximized
+16:09:10.819 [main] DEBUG alpha.act - Now hitting Amazon server
+16:09:34.677 [main] INFO  alpha.act - Landed on amazon home page
+16:09:42.659 [main] DEBUG alpha.act - Getting the frames count
+16:09:42.685 [main] INFO  alpha.act - Frames count retreived

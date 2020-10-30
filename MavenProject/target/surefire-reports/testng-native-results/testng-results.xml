@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="41" started-at="2020-10-24T09:34:45Z" finished-at="2020-10-24T09:34:45Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="41" started-at="2020-10-24T09:34:45Z" finished-at="2020-10-24T09:34:45Z">
+      <class name="QA.MavenProject.HomeScreenTest">
+        <test-method status="PASS" signature="Hvalidation1()[pri:0, instance:QA.MavenProject.HomeScreenTest@35fb3008]" name="Hvalidation1" duration-ms="6" started-at="2020-10-24T15:04:45Z" finished-at="2020-10-24T15:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hvalidation1 -->
+        <test-method status="PASS" signature="Hvalidation2()[pri:0, instance:QA.MavenProject.HomeScreenTest@35fb3008]" name="Hvalidation2" duration-ms="0" started-at="2020-10-24T15:04:45Z" finished-at="2020-10-24T15:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hvalidation2 -->
+      </class> <!-- QA.MavenProject.HomeScreenTest -->
+      <class name="QA.MavenProject.SignInTest">
+        <test-method status="PASS" signature="validation1()[pri:0, instance:QA.MavenProject.SignInTest@36f6e879]" name="validation1" duration-ms="1" started-at="2020-10-24T15:04:45Z" finished-at="2020-10-24T15:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validation1 -->
+        <test-method status="PASS" signature="validation2()[pri:0, instance:QA.MavenProject.SignInTest@36f6e879]" name="validation2" duration-ms="0" started-at="2020-10-24T15:04:45Z" finished-at="2020-10-24T15:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validation2 -->
+      </class> <!-- QA.MavenProject.SignInTest -->
+      <class name="QA.MavenProject.SignOutTest">
+        <test-method status="PASS" signature="Svalidation1()[pri:0, instance:QA.MavenProject.SignOutTest@5a61f5df]" name="Svalidation1" duration-ms="0" started-at="2020-10-24T15:04:45Z" finished-at="2020-10-24T15:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Svalidation1 -->
+        <test-method status="PASS" signature="Svalidation2()[pri:0, instance:QA.MavenProject.SignOutTest@5a61f5df]" name="Svalidation2" duration-ms="0" started-at="2020-10-24T15:04:45Z" finished-at="2020-10-24T15:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Svalidation2 -->
+      </class> <!-- QA.MavenProject.SignOutTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
